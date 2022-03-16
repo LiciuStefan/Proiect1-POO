@@ -11,6 +11,7 @@ Salon
 Clasele sunt definite prin agregare, fiecare obiect de tip salon continand un vector de angajati, servicii, produse si programari.
 Pentru fiecare clasa au fost supraincarcati operatori compusi de atribuire, operatori aritmetici binari, operatori relationali si de citire si scriere.
 Da asemenea, au fost implementate functii de set si get, plus alte utilitati in clasa Salon precum sorteaza_angaajti_dupa_salariu, add_angajat, elimina_angajat, check_product_availability, check_reservation_availability, anuleaza_rezervare, salariu_in_medie etc.
+Operatorii supraincarcati tin cont si de exceptii folosind try catch.
 
 Fluxuri de testare:
 Programul prezinta un meniu cu 12 optiuni.
